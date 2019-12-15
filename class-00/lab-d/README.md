@@ -1,5 +1,5 @@
 # We are done with this part
-Happy Sunday :)
+Lab d showed me how to install dependencies using npm install
 
 # Lab 00d: Code Challenges Setup
 
